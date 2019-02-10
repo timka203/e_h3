@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\project16\project16\source.cpp(16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\тимур\source\repos\project16\project16\source.cpp(37): warning C4566: символ, представленный универсальным именем символа "\u25E6", невозможно представить в текущей кодовой странице (1251)
+c:\users\тимур\source\repos\project16\project16\source.cpp(61): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\тимур\source\repos\project16\project16\source.cpp(82): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project16.vcxproj -> C:\Users\Тимур\source\repos\Project16\Debug\Project16.exe
